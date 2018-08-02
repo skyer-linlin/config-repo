@@ -14,4 +14,4 @@ server:
   #order端口号
   port: 8081
 env:
-  test6
+  test7
